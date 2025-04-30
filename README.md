@@ -19,16 +19,16 @@ Technology	Purpose
 ## How It Works :
 The page is divided into clearly structured sections that provide a full e-commerce experience:
 1. Header
-   •	Includes logo, navigation links (Shop, Categories, Cart), and a search bar.
-   •	Responsive and fixed at the top for easy access.
+   -	Includes logo, navigation links (Shop, Categories, Cart), and a search bar.
+   -  Responsive and fixed at the top for easy access.
 2. Hero Section
-   •	Displays a large product image, title, price, short intro, and a prominent "Buy Now" button.
-   •	Fully responsive and attention-grabbing.
+   -	Displays a large product image, title, price, short intro, and a prominent "Buy Now" button.
+   -	Fully responsive and attention-grabbing.
 3. Product Details Section
-   •	Shows detailed product description, specifications list, and real-time user reviews.
-   •	Includes a review submission form with simple validation.
+   -	Shows detailed product description, specifications list, and real-time user reviews.
+   -	Includes a review submission form with simple validation.
 4. Footer
-  •	Contains quick links (Privacy Policy, FAQs), and social media icons for enhanced user trust and navigation.
+   -	Contains quick links (Privacy Policy, FAQs), and social media icons for enhanced user trust and navigation.
 
 Output :
 ![Screenshot 2025-04-30 190209](https://github.com/user-attachments/assets/f4ecebaf-54de-4e48-bf10-fbaf38463250)
